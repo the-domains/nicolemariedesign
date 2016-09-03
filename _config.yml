@@ -1,19 +1,4 @@
-name: Nicole Marie Design
-favicon: null
-layout_spectrum: 0.6223214366473258
 typography_spectrum: 0.7946636818815023
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6223214366473258
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Nicole Marie Design
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Design is all around you
 purpose: []

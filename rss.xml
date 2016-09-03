@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nicole Marie Design]]></title>
-        <description><![CDATA[Nicole Marie Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Design is all around you]]></title>
+        <description><![CDATA[Design is all around you]]></description>
+        <link>https://thegrid.ai/nicolemariedesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 02:36:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 18:50:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nicolemariedesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Grid sucks and is difficult to use</p>]]></description>
-            <link>undefined60cbcdd3-4c11-4634-91fc-adfebbd1f376/index.html</link>
+            <link>https://thegrid.ai/nicolemariedesign/60cbcdd3-4c11-4634-91fc-adfebbd1f376/index.html</link>
             <guid isPermaLink="false">60cbcdd3-4c11-4634-91fc-adfebbd1f376</guid>
-            <pubDate>Fri, 04 Mar 2016 02:36:24 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 18:50:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

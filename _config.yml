@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Portfolio
+    id: 60cbcdd3-4c11-4634-91fc-adfebbd1f376
+    type: content
 favicon: null
 title: Design is all around you
 purpose: []
